@@ -1,2 +1,1 @@
-# OSrendszerek
 # OSbeadando
